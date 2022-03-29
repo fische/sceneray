@@ -5,3 +5,6 @@ dist-newstyle
 
 # editors
 *.swp
+
+# test file
+test.png
